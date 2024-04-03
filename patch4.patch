@@ -1,0 +1,4 @@
+12a15,17
+>     arr = []
+>     for i in range(0, testInteger):
+>       arr[i] = get_sign(i)

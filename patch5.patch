@@ -1,0 +1,4 @@
+12a18,20
+>     arr2 = []
+>     for i in range(0, testInteger):
+>       arr2.append(get_sign(i))

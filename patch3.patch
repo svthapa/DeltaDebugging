@@ -1,0 +1,4 @@
+12c14
+<     get_sign(testInteger)
+---
+>     print(get_sign(testInteger))
